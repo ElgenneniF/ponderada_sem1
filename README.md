@@ -7,4 +7,4 @@ Link da demonstração: https://youtu.be/tIX09SOsoqQ
 pisca pisca com potenciometro para controlar a fequencia:
 <img src="assets\pisca-poten.png" alt="pisca pisca c/ potenciometro" width=100%>
 
-link da demonstração: https://youtu.be/0cqTXppfc-U
+link da demonstração: https://youtu.be/mOW2RCWWi0M
